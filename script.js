@@ -13,7 +13,7 @@ for(i = 0; i < 10; i++) {
     }
 }
 
-//console.log(notas);
+//console.log(notas);.
 
 function mediaAlunos (nota1, nota2, nota3){
     return((parseFloat(nota1) + parseFloat(nota2) + parseFloat(nota3)) / 3).toFixed(1);
